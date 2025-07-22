@@ -75,7 +75,10 @@ body {
     background-image: url("images/badass.gif");
 }
 
+.gift-cover-cheers {
+    height: 200px;
+}
+
 .gift-cover-cheers:hover {
     background-image: url("images/cheers.gif");
-    height: 200px;
 }
